@@ -1,0 +1,6 @@
+# Ex. 1) Escreva os números naturais de 0 a 100
+
+i=0
+while i<=100:
+    print(i)
+    i=i+1
