@@ -7,9 +7,5 @@ def main():
         i+=1
     print('Fim da tabuada')
 
-        
-        
-
-print('Fim da tabuada')
   
 main()
